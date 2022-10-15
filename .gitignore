@@ -1,1 +1,14 @@
 Solved
+src/GildedRose/.vs/
+src/GildedRose/bin/
+src/GildedRose/obj/
+src/TestProject1/bin/
+src/TestProject1/obj/
+src/GildedRose.Business/bin/
+src/GildedRose.Business/obj/
+src/GildedRose.Model/bin/
+src/GildedRose.Model/obj/
+src/tools/
+src/TestProject1/TestResults/
+src/CoverageReport/
+src/.vs/

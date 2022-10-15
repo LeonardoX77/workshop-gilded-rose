@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace GildedRose
+namespace GildedRose.Model
 {
     public class Item
     {
